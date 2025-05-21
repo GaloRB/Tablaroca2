@@ -980,6 +980,13 @@ text-shadow: 2px 4px 4px rgba(176, 176, 176, 0.524),0px -1px 1px rgba(255, 255, 
         margin: 0;
     }
 
+    .proyectos h5 a{
+        color: rgb(216, 45, 232);
+        font-size: 1.8rem;
+        text-align: center;
+        margin: 0;
+    }
+
     /* ------------- CONTACTO ---------------*/
     
     .footer {
